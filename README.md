@@ -1,5 +1,12 @@
 # auto-gate-service-52
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/auto-gate-service-52/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/auto-gate-service-52/actions)
+![License](https://img.shields.io/github/license/yksanjo/auto-gate-service-52)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/auto-gate-service-52)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/auto-gate-service-52)
+
 ## Detailed Description
 
 auto-gate-service-52 is maintained as an industry-grade software project with production-ready engineering practices.  
